@@ -11,23 +11,18 @@ The entire summary of the project can be found in the [project report](https://g
 * [Setup](#setup)
 * [Features](#features)
 * [Status](#status)
-* [Inspiration](#inspiration)
 * [Contact](#contact)
 
 ## General info
-The data-set consists of details about variour houses across and its ownership status across United States from the year 2003-2013 for every alternate year.  
-The data has been used to answer various questions related to the US housing market. 
+The data-set consists of details about variour houses across and its ownership status across United States from the year 2003-2013 for every alternate year. The data has been used to answer various questions related to the US housing market. 
 
 ## Screenshots
 ![Example screenshot](./img/Capture1.PNG)
-
-![Example screenshot](./img/Capture1.PNG)
-
+![Example screenshot](./img/Capture.PNG)
 ![Example screenshot](./img/Capture2.PNG)
-
 ![Example screenshot](./img/Capture3.PNG)
 
-`**The entire presentation of the project can be found [here](https://github.com/harshbg/US-Housing-Price-Analysis/blob/master/Team_Random%20-%20Final.pdf)).**`
+**The entire presentation of the project can be found [here](https://github.com/harshbg/US-Housing-Price-Analysis/blob/master/Team_Random%20-%20Final.pdf)).**
 
 ## Technologies and Tools
 
@@ -36,27 +31,18 @@ The data has been used to answer various questions related to the US housing mar
 * Microsoft Excel
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
-
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
+The data used for exploratory analysis and model building can be found [here](https://github.com/harshbg/US-Housing-Price-Analysis/tree/master/Data). The visualizations can be replicated using Tableau. 
 
 ## Features
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
-
-To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* Visualized housing and renting prices across America using Tableau to understand impacts of the housing bubble.
+* Derived yearly trend for house prices for various locations and illustrated regions with profitable housing property.
+* Determined the impact of poverty on house ownership, debt burden, and occupancy of people in a room.
 
 ## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
-
-## Inspiration
-Add here credits. Project inspired by..., based on...
+Project is: _finished_ and we did win the second position if the analytics challange. 
+Our project for the previous round can be found [here](https://github.com/harshbg/US-Consumer-Time-Spend-Analysis). Be sure to check it out. 
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by me and my awesome teammates Weiyang Sun and Sri Harish Popuri **Team Random**
+
+Feel free to contact me! My other projects can be found [here](http://www.gupta-harsh.com/projects/)
