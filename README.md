@@ -22,7 +22,7 @@ The data-set consists of details about variour houses across and its ownership s
 ![Example screenshot](./img/Capture2.PNG)
 ![Example screenshot](./img/Capture3.PNG)
 
-**The entire presentation of the project can be found [here](https://github.com/harshbg/US-Housing-Price-Analysis/blob/master/Team_Random%20-%20Final.pdf)).**
+**The entire presentation of the project can be found [here](https://github.com/harshbg/US-Housing-Price-Analysis/blob/master/Team_Random%20-%20Final.pdf).**
 
 ## Technologies and Tools
 
