@@ -44,5 +44,9 @@ Our project for the previous round can be found [here](https://github.com/harshb
 
 ## Contact
 Created by me and my awesome teammates Weiyang Sun and Sri Harish Popuri **Team Random**
+
 If you loved what you read here and feel like we can collaborate to produce some exciting stuff, or if you
-just want to shoot a question, please feel free to connect with me on <a href="hello@gupta-harsh.com" target="_blank">email</a>, <a href="https://www.linkedin.com/in/harshbg/" target="_blank">LinkedIn</a>, or <a href="https://twitter.com/harshbg" target="_blank">Twitter</a>. My other projects can be found [here](http://www.gupta-harsh.com/projects/).
+just want to shoot a question, please feel free to connect with me on <a href="hello@gupta-harsh.com" target="_blank">email</a>, 
+<a href="https://www.linkedin.com/in/harshbg/" target="_blank">LinkedIn</a>, or 
+<a href="https://twitter.com/harshbg" target="_blank">Twitter</a>. 
+My other projects can be found [here](http://www.gupta-harsh.com/projects/).
